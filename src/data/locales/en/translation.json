@@ -1,0 +1,49 @@
+{
+  "title": "GoFilm",
+  "language": "Language",
+  "home_link": "Home",
+  "movie_link": "Movie",
+  "actor_link": "Actors",
+  "loading": "Loading...",
+  "homePage": {
+    "top_title": "TOP RATED MOVIES",
+    "trending_title": "WEEKLY TRENDS",
+    "footer_slogan": "GoFilm - everything about movies, authors, actors and news of film industry"
+  },
+  "moviesPage": {
+    "mistake": "Oops, mistake! Please try again",
+    "set_error": "Something went wrong, reload the page, it might help 🥹",
+    "not_found": "I didn`t find movies. Please try again",
+    "title": "Let`s find movies together!",
+    "trend_list": "WEEKLY TRENDS",
+    "persons_list": "List of popular persons",
+    "load_more": "Load More",
+    "description_persons_list": "This list updates daily",
+    "placeholder_search": "Search...",
+    "placeholder_genres": "Select genres...",
+    "additional_information": "Additional information",
+    "back_to_movies": "Back",
+    "cast": "Cast",
+    "cast_desription": "Actor info not found",
+    "character": "Character: ",
+    "reviews": "Reviews",
+    "reviews_desription": "We don't have any reviews for this movie",
+    "author": "Author: ",
+    "overview": "Overview",
+    "production_companies": "Production Companies",
+    "status": "Status: ",
+    "release_date": "Release Date: ",
+    "runtime": "Runtime: "
+  },
+  "actorsPage": {
+    "expected": "Expected Movies",
+    "actors_rating": "Actors Rating: ",
+    "bio": "Biography, Movies and Facts",
+    "date_of_birth": "Date of birth: ",
+    "place_of_birth": "Place of birth: ",
+    "popularity": "Popularity: ",
+    "read_more": "Read More",
+    "biography": "Biography",
+    "cancel": "OK"
+  }
+}
